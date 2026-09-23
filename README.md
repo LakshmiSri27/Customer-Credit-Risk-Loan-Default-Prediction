@@ -86,10 +86,8 @@ Confusion Matrix & Threshold Analysis
 Feature Importance & SHAP Explainability
    ↓
 Streamlit Prediction Application
+```
 
-**before**:
-
-```markdown
 ## 🤖 Machine Learning Models
 
 Four classification algorithms were evaluated:
@@ -165,8 +163,16 @@ Customer-Credit-Risk-Loan-Default-Prediction/
 ├── app.py
 ├── models/
 │   └── credit_risk_xgboost.pkl
-├── notebooks/
-│   └── Credit_Risk_Prediction.ipynb
+├── Credit_Risk_Prediction.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and demonstration purposes. Model predictions should not be used as the sole basis for real-world lending decisions.
+
+## 👩‍💻 Author
+
+Lakshmi Sri V
