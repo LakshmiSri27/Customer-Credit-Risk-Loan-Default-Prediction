@@ -172,7 +172,3 @@ Customer-Credit-Risk-Loan-Default-Prediction/
 ## ⚠️ Disclaimer
 
 This project is intended for educational and demonstration purposes. Model predictions should not be used as the sole basis for real-world lending decisions.
-
-## 👩‍💻 Author
-
-Lakshmi Sri V
