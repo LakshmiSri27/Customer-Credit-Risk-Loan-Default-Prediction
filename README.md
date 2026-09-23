@@ -6,6 +6,10 @@ This project develops a machine learning system to predict the probability of lo
 
 The project includes data preprocessing, exploratory data analysis, machine learning model comparison, threshold analysis, feature importance, SHAP explainability, and a Streamlit web application.
 
+## 📸 Application Preview
+
+![Customer Credit Risk Predictor](app_screenshot.png)
+
 ## 🎯 Objective
 
 The main objective is to build a machine learning model that can identify customers who may have a higher probability of loan default.
