@@ -161,6 +161,7 @@ The project includes an interactive Streamlit application where users can enter 
 Customer-Credit-Risk-Loan-Default-Prediction/
 │
 ├── app.py
+├── app_screenshot.png
 ├── models/
 │   └── credit_risk_xgboost.pkl
 ├── Credit_Risk_Prediction.ipynb
