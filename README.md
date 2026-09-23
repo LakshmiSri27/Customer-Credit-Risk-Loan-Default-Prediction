@@ -87,6 +87,9 @@ Feature Importance & SHAP Explainability
    ↓
 Streamlit Prediction Application
 
+**before**:
+
+```markdown
 ## 🤖 Machine Learning Models
 
 Four classification algorithms were evaluated:
