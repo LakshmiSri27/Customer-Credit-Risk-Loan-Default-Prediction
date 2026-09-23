@@ -62,6 +62,31 @@ The project analyzes relationships between loan default and:
 - Previous default history
 - Credit history
 
+## 🔄 Machine Learning Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Preprocessing
+   ↓
+Train-Test Split
+   ↓
+Model Training
+   ↓
+Model Comparison
+   ↓
+XGBoost Model
+   ↓
+Confusion Matrix & Threshold Analysis
+   ↓
+Feature Importance & SHAP Explainability
+   ↓
+Streamlit Prediction Application
+
 ## 🤖 Machine Learning Models
 
 Four classification algorithms were evaluated:
